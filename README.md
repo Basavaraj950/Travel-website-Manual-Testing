@@ -10,18 +10,8 @@ This project showcases my ability to design detailed test cases, identify defect
 🎯 Objective
 To validate the core functionalities of the BlazeDemo flight booking application by testing end-to-end booking flows and ensuring the system works as expected for both positive and negative scenarios.
 
-📂 Project Structure
-bash
-Copy
-Edit
-📁 BlazeDemo-Manual-Testing
-│
-├── 📄 Test_Plan.docx                   # Detailed test plan for the project
-├── 📄 Flight_Search_TestCases.xlsx
-├── 📄 Flight_Booking_TestCases.xlsx
-├── 📄 Payment_Process_TestCases.xlsx
-├── 📄
-└── README.md                           # Project overview (this file)
+
+
 🛠 Tools & Technologies Used
 Test Design & Documentation: MS Excel, MS Word
 
@@ -31,7 +21,7 @@ Browser: Google Chrome (latest version)
 
 OS: Windows 10
 
-📜 Test Scope
+ Test Scope
 In-Scope
 
 Flight search functionality testing
@@ -44,7 +34,7 @@ Payment process validation
 
 
 
-✅ Deliverables
+Deliverables
 Test Plan (as per IEEE 829 format)
 
 Test Cases (Excel format)
@@ -53,13 +43,8 @@ Defect Report
 
 Test Summary Report
 
-📊 Sample Test Scenarios
-Test ID	Scenario	Expected Result	Status
-FS_01	Search flights with valid departure and destination cities	List of matching flights should be displayed	✅ Pass
-FB_04	Book a flight with valid passenger details	Booking should be confirmed with a booking ID	✅ Pass
-PP_06	Attempt payment with expired credit card	Error message should be displayed	✅ Pass
 
-🚀 How to Use
+ How to Use
 Clone this repository.
 
 Open the test plan and test case files to review the scenarios.
